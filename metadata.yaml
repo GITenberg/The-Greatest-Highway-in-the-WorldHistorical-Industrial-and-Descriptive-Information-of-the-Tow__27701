@@ -1,0 +1,29 @@
+_repo: The-Greatest-Highway-in-the-WorldHistorical-Industrial-and-Descriptive-Information-of-the-Tow__27701
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 27701-h/images/frontcover.jpg
+creator:
+  author:
+    agent_name: New York Central Railroad Company
+    gutenberg_agent_id: '32858'
+    url: http://www.gutenberg.org/2009/agents/32858
+description: ''
+gutenberg_issued: '2009-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27701'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (State) -- Guidebooks'
+- !lcc 'F106'
+- !lcsh 'Ohio -- Guidebooks'
+title: 'The Greatest Highway in the World
+
+  Historical, Industrial and Descriptive Information of the Towns, Cities and Country
+  Passed Through Between New York and Chicago Via the New York Central Lines. Based
+  on the Encyclopaedia Britannica.'
+url: http://www.gutenberg.org/ebooks/27701
